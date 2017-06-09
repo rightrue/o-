@@ -22,7 +22,7 @@ Keywords(internal names)<br>
 <br>
 <br>
 <br>
-code exemaple 1<br>
+code example 1<br>
 
     Pet = Class({
         Private:{
@@ -75,7 +75,7 @@ code exemaple 1<br>
     leak.showName();
     leak.dog.showName();
     
-exemple output 1<br>
+example output 1<br>
 
     Class.ClassName(): Class
     Pet.ClassName(): Pet
