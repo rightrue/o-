@@ -5,20 +5,19 @@
 Browser Support
 
     IE 6+, FF, Chrome, Safari, Opera, Konqueror, Android(4.0+), iOS, ...
-
-
-
+<br>
+<br>
+<br>
 Keywords(internal names)
-
     Class       - Class type
     Private     - access modifier
     Protected   - access modifier
     Public      - access modifier
     Inherited   - ancestor method call
     Create      - constructor function
-
-
-
+<br>
+<br>
+<br>
 code exemaple 1
 
     Pet = Class({
