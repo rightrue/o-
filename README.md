@@ -1,7 +1,10 @@
 # ojs(o$) - Simple Oject Oriented JS Library
 
-
-
+Purpose<br>
+    class emulation for javascript
+<br>
+<br>
+<br>
 Browser Support<br>
     IE 6+, FF, Chrome, Safari, Opera, Konqueror, Android(4.0+), iOS, ...
 <br>
