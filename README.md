@@ -67,7 +67,7 @@ code exemaple 1<br>
     log("leak instanceof Pet: " + (leak instanceof Pet));
     log("leak instanceof Cat: " + (leak instanceof Cat));
     log("leak instanceof Dog: " + (leak instanceof Dog));
-    log("Cat instanceof Pet: " + (Cat instanceof Pet));
+    log("Cat instanceof Pet: " + (Cat instanceof Pet));
     log("")
     memory.showNick();
     memory.showName();
@@ -90,12 +90,10 @@ exemple output 1<br>
     leak instanceof Pet: true
     leak instanceof Cat: true
     leak instanceof Dog: false
-    Cat instanceof Pet: false
-    pet
+    Cat instanceof Pet: false
+    pet
     dog
     pet
     Pet
     mewoo
-
-
 
