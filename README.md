@@ -1,12 +1,12 @@
 # ojs(o$) - Simple Oject Oriented JS Library
 
 Purpose<br>
-    class emulation for javascript
+    class emulation for javascript<br>
 <br>
 <br>
 <br>
 Browser Compatibility<br>
-    IE 6+, FF, Chrome, Safari, Opera, Konqueror, Android(4.0+), iOS, ...
+    IE 6+, FF, Chrome, Safari, Opera, Konqueror, Android(4.0+), iOS, ...<br>
 <br>
 <br>
 <br>
@@ -17,12 +17,12 @@ Keywords(internal names)<br>
     Public      - access modifier<br>
     Inherited   - ancestor method call<br>
     Create      - constructor function<br>
-    Ancestor    - rtti
-    Type        - rtti
+    Ancestor    - rtti<br>
+    Type        - rtti<br>
 <br>
 <br>
 <br>
-code exemaple 1
+code exemaple 1<br>
 
     Pet = Class({
         Private:{
@@ -74,7 +74,7 @@ code exemaple 1
     leak.showName();
     leak.dog.showName();
     
-exemple output 1
+exemple output 1<br>
 
     Class.ClassName(): Class
     Pet.ClassName(): Pet
