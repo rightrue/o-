@@ -14,6 +14,8 @@ Keywords(internal names)<br>
     Public      - access modifier<br>
     Inherited   - ancestor method call<br>
     Create      - constructor function<br>
+    Ancestor    - rtti
+    Type        - rtti
 <br>
 <br>
 <br>
@@ -67,7 +69,7 @@ code exemaple 1
     memory.showName();
     leak.showNick();
     leak.showName();
-    leak.t.showName();
+    leak.dog.showName();
     
 exemple output 1
 
