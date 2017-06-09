@@ -10,7 +10,7 @@ Browser Compatibility<br>
 <br>
 <br>
 <br>
-Keywords(internal names)<br>
+Keywords(internal identifier)<br>
     Class       - Class type<br>
     Private     - access modifier<br>
     Protected   - access modifier<br>
