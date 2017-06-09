@@ -68,7 +68,7 @@ code exemaple 1<br>
     log("leak instanceof Cat: " + (leak instanceof Cat));
     log("leak instanceof Dog: " + (leak instanceof Dog));
     log("Cat instanceof Pet: " + (Cat instanceof Pet));
-    log("")
+    log("")
     memory.showNick();
     memory.showName();
     leak.showNick();
