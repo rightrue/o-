@@ -3,11 +3,13 @@
 
 
 Browser Support
+
     IE 6+, FF, Chrome, Safari, Opera, Konqueror, Android(4.0+), iOS, ...
 
 
 
 Keywords(internal names)
+
     Class       - Class type
     Private     - access modifier
     Protected   - access modifier
