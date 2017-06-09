@@ -19,7 +19,7 @@ Keywords(internal names)
 
 code exemaple 1
 
-    Pet = Class({
+    Pet = Class({
         Private:{
             name: "Pet",
             nick: "pet",
