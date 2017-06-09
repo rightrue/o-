@@ -17,8 +17,8 @@ Keywords(internal names)<br>
     Public      - access modifier<br>
     Inherited   - ancestor method call<br>
     Create      - constructor function<br>
-    Ancestor    - rtti<br>
-    Type        - rtti<br>
+    Ancestor    - rtti<br>
+    Type        - rtti<br>
 <br>
 <br>
 <br>
